@@ -1,0 +1,3 @@
+display_name: 舆情日报
+short_description: 筛选慧科舆情日报初稿并生成终版 DOCX。
+default_prompt: 请按舆情日报 SOP 处理这个慧科日报初稿，筛选新闻、替换媒体源、检查漏报并输出终版。
